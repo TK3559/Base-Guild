@@ -12,3 +12,4 @@ arb
 token
 airdrop
 rich
+3
