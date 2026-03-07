@@ -10,3 +10,4 @@ hello world
 guild
 arb
 token
+airdrop
