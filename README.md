@@ -16,3 +16,4 @@ rich
 10
 bitcoin
 coinbase
+metamask
