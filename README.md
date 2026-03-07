@@ -23,3 +23,4 @@ tradingview
 eth
 chrome
 guild
+money
