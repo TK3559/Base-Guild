@@ -13,3 +13,4 @@ token
 airdrop
 rich
 3
+10
