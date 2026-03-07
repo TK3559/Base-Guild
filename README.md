@@ -11,3 +11,4 @@ guild
 arb
 token
 airdrop
+rich
