@@ -19,3 +19,4 @@ coinbase
 metamask
 trump
 onchain
+tradingview
