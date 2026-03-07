@@ -20,3 +20,4 @@ metamask
 trump
 onchain
 tradingview
+eth
