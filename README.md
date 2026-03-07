@@ -21,3 +21,4 @@ trump
 onchain
 tradingview
 eth
+chrome
