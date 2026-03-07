@@ -17,3 +17,4 @@ rich
 bitcoin
 coinbase
 metamask
+trump
