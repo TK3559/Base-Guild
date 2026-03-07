@@ -24,3 +24,4 @@ eth
 chrome
 guild
 money
+internet
