@@ -22,3 +22,4 @@ onchain
 tradingview
 eth
 chrome
+guild
