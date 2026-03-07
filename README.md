@@ -25,3 +25,4 @@ chrome
 guild
 money
 internet
+usa
