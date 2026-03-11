@@ -36,3 +36,4 @@ scalp
 money is coming
 token
 twitter
+meme
