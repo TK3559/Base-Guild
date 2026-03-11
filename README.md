@@ -30,3 +30,4 @@ elon
 road to 1 million
 doge
 life is good
+trading
