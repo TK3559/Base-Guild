@@ -47,3 +47,4 @@ airdrops are great
 fix your life
 puma
 nike
+just do it 
