@@ -50,3 +50,4 @@ nike
 just do it 
 dont overthink
 ai
+crypto
