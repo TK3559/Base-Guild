@@ -76,3 +76,4 @@ money is coming
 god
 enton
 pokemon
+health is wealth
