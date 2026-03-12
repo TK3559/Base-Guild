@@ -59,3 +59,4 @@ base
 arb
 10k
 gm
+nice
