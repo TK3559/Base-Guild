@@ -83,3 +83,4 @@ eth
 bitcoin
 pc
 750
+1000
