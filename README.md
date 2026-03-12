@@ -86,3 +86,4 @@ pc
 1000
 starknet
 lz
+github
