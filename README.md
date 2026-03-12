@@ -52,3 +52,4 @@ dont overthink
 ai
 crypto
 hello
+hi
