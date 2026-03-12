@@ -84,3 +84,4 @@ bitcoin
 pc
 750
 1000
+starknet
