@@ -100,3 +100,4 @@ approve
 lets go
 crypto
 jumper
+zk
